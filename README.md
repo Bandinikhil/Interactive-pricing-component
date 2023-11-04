@@ -10,6 +10,31 @@
 
 This is an interactive pricing component project where users can view pricing based on the number of page views and choose between monthly and yearly billing options.
 
+## Project Setup
+
+To set up this project, follow these steps:
+
+1. Clone this repository to your local machine:
+   ```bash
+   git clone https://github.com/Bandinikhil/news_dashboard.git
+
+2. Change your current directory to the project folder: 
+   ```bash
+   cd pricing
+
+3. Install the project dependencies using npm or yarn:
+   ```bash
+   npm install
+    # or
+   yarn install
+
+
+4.Start the development server: 
+   ```bash
+    npm start
+     # or
+    yarn start.
+
 ## Table of Contents
 - [Page view and pricing totals](#page-view-and-pricing-totals)
 - [Features](#features)
