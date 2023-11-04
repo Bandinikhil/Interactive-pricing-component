@@ -10,6 +10,8 @@
 
 [video](https://www.loom.com/share/2f8a2ad0a52043728748def49cfee811?sid=a1b69a74-bede-4e4e-b46d-136ab628d770)
 
+<br>
+
 ![Screenshot (141)](https://github.com/Bandinikhil/Interactive-pricing-component/assets/105233916/d1656814-7f3a-4334-a4f8-576df4cad7b1)
 
 <br>
