@@ -39,9 +39,12 @@ To set up this project, follow these steps:
    ```bash
     npm start
      # or
-    yarn start.
+    yarn start
 
-5. ## Table of Contents
+
+<br>
+
+ ## Table of Contents
 - [Page view and pricing totals](#page-view-and-pricing-totals)
 - [Features](#features)
 - [Where to Find Everything](#where-to-find-everything)
