@@ -1,5 +1,11 @@
 # Interactive Pricing Component
 
+## Deployed Link
+
+[Interactive Pricing Component](https://interactive-pricing-componentt.netlify.app/)
+
+<br>
+
 ![Screenshot (141)](https://github.com/Bandinikhil/Interactive-pricing-component/assets/105233916/d1656814-7f3a-4334-a4f8-576df4cad7b1)
 
 <br>
@@ -16,7 +22,7 @@ To set up this project, follow these steps:
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/Bandinikhil/news_dashboard.git
+   git clone https://github.com/Bandinikhil/Interactive-pricing-component.git
 
 2. Change your current directory to the project folder: 
    ```bash
