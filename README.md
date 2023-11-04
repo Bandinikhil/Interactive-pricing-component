@@ -1,70 +1,65 @@
-# Getting Started with Create React App
+# Interactive Pricing Component
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Screenshot (141)](https://github.com/Bandinikhil/Interactive-pricing-component/assets/105233916/d1656814-7f3a-4334-a4f8-576df4cad7b1)
 
-## Available Scripts
+<br>
 
-In the project directory, you can run:
+![Screenshot (143)](https://github.com/Bandinikhil/Interactive-pricing-component/assets/105233916/bd9f1d1b-beec-4e66-9198-81b30cff2fa3)
 
-### `npm start`
+<br>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+This is an interactive pricing component project where users can view pricing based on the number of page views and choose between monthly and yearly billing options.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Table of Contents
+- [Page view and pricing totals](#page-view-and-pricing-totals)
+- [Features](#features)
+- [Where to Find Everything](#where-to-find-everything)
+- [Building Your Project](#building-your-project)
+- [Usage](#usage)
+- [License](#license)
 
-### `npm test`
+## Page view and pricing totals
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Here are the different page view ranges and the corresponding monthly price totals:
 
-### `npm run build`
+- 10K pageviews / $8 per month
+- 50K pageviews / $12 per month
+- 100K pageviews / $16 per month
+- 500k pageviews / $24 per month
+- 1M pageviews / $36 per month
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+If the visitor switches the toggle to yearly billing, a 25% discount should be applied to all prices.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Features
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- View the optimal layout for the app depending on their device's screen size.
+- See hover states for all interactive elements on the page.
+- Use the slider and toggle to see prices for different page view numbers.
 
-### `npm run eject`
+## Where to Find Everything
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- Your task is to build out the project to the designs inside the `/design` folder.
+- You will find both a mobile and a desktop version of the design.
+- The designs are in JPG static format. Use your best judgment for styles such as `font-size`, `padding`, and `margin`.
+- Required assets are available in the `/images` folder. The assets are already optimized.
+- Check the `style-guide.md` file for the color palette and fonts.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Building Your Project
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Feel free to use any workflow that you feel comfortable with. Here's a suggested process:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+1. Initialize your project as a public repository on [GitHub](https://github.com/).
+2. Configure your repository to publish your code to a web address.
+3. Plan your project by reviewing the design and structuring the HTML.
+4. Write the base styles for your project, including general content styles.
+5. Start adding styles from the top of the page and work down, one section at a time.
 
-## Learn More
+## Usage
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+You can clone the repository and open the `index.html` file in your browser to interact with the pricing component.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## License
 
-### Code Splitting
+This project is licensed under the MIT License.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
